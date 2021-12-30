@@ -1,0 +1,7 @@
+Link para download do git: https://gitforwindows.org/
+
+Link do repositório: https://github.com/RafaelBosco/dio-desafio-github-primeiroRepositorio.git
+
+
+- Git Bash é um terminal estendido para otimizar o uso do git
+"git clone" + "Link do repositório" = cria uma pasta do repositório
