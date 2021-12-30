@@ -4,4 +4,7 @@ Link do repositório: https://github.com/RafaelBosco/dio-desafio-github-primeiro
 
 
 - Git Bash é um terminal estendido para otimizar o uso do git
-"git clone" + "Link do repositório" = cria uma pasta do repositório
+	"git clone" + "Link do repositório" = cria uma pasta do repositório
+	"git add ." = adiciona TODOS os arquivos (adiciona localmente apenas)
+	"git commit -m "Mensagem do commit" " = salva as atualizações localmente com as credenciais com uma mensagem
+	"git push origin main" = manda os commits localmente para a nuvem (origin main é o branch que estou trabalhando)
