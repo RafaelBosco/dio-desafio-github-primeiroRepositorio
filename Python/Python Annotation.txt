@@ -1,0 +1,1 @@
+Deixar esse arquivo para alguns cheat-sheets e comandos de python
